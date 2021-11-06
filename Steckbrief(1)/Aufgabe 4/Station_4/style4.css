@@ -1,0 +1,41 @@
+body {
+    background-image: url(bg4.png);
+}
+
+.Karte4 {
+    position:relative;
+    top:200px;
+    left:450px;
+}
+
+@font-face {
+    font-family: Überschrift4;
+    src: url("Jellyka Delicious Cake.ttf")
+}
+
+.Überschrift4 {
+    font-family: Überschrift4;
+    width: 500px;
+    font-size: 35px;
+    position: absolute;
+    color: white;
+    top:260px;
+    left:550px;
+    text-align:left;
+}
+
+@font-face {
+    font-family: blabla;
+    src: url("Jellyka Delicious Cake.ttf")
+}
+
+.blabla {
+    font-family: blabla;
+    width: 500px;
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    top:360px;
+    left:550px;
+    text-align: left;
+}
